@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package primeiraaplicacao;
 
 /**
@@ -10,7 +6,7 @@ package primeiraaplicacao;
  * @author taina-santos
  */
 public class Carro {
-     private String chassi;
+    private String chassi;
     private String cor;
     private String modelo;
 
